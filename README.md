@@ -10,6 +10,7 @@ Installation:
 - BACKUP YOUR SETTINGS! Very important in case you don't like my settings.
 - Download the latest version.
 - Import settings.
+- Instal ColorIde plugin manually
 - Restart IntelliJ
 
 Main Shortcuts (unmark keymap if you don't want it).
